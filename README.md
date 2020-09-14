@@ -2,6 +2,6 @@
 
 This bot is utilized on a Discord Server to play Audio in Calls. 
 
-script utilizes the Discord.py Library 
+The script utilizes the Discord.py Library for Python
 
 Audio is downloaded with YoutubeDL and FFmpeg
